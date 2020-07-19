@@ -96,8 +96,10 @@ $button-text-case: #{$button_text_case} !default;
 
 // fonts --------------------------------------------------------------------------------------
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 html {
-  font-family: "Assistant", sans-serif;
+  font-family: "Open Sans", sans-serif;
   background: #222;
   font-size: 15px;
 }
